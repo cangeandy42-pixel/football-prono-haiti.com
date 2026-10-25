@@ -1,0 +1,6 @@
+{
+  "name": "Football Prono Haiti",
+  "description": "Analiz match ak pronostik foutbòl Premium an Ayiti ak opsyon abònman MonCash, NatCash ak Binance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
